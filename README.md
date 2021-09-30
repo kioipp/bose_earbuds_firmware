@@ -1,0 +1,1 @@
+# bose_earbuds_firmware
