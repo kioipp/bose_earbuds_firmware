@@ -15,5 +15,7 @@ Check **BoseUpdater.log** in your macOS or Windows, it will tell everything duri
 I downgraded my QuietComfort Earbuds from **2.0.7** to **1.0.7**  successfully, but the cancelling ability is not back to perfect as I first time enjoy it after bought from store.
 
 **--------!!!! WARNING !!!!--------**
+
 The downgrade operation is in high **`RISK`**. Please don't do it if you don't know what will happend.
+
 **--------!!!! WARNING !!!!--------**
